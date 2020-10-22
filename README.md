@@ -1,7 +1,7 @@
 # JStop
 JS Stopwatch written in JS/CSS/HTML
 
-# Screencap
+# Screen capture
 <p>
 <a href="https://github.com/FrejBjornsson/JStop" target="_blank">
 <img src='https://i.gyazo.com/813c1ee1d938ff2d4b6b1aea517fd794.gif' />
