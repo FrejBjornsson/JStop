@@ -10,5 +10,3 @@ JS Stopwatch written in JS/CSS/HTML
 
 # How to run:
 https://codepen.io/FrejB/pen/OJXbOKP
-
-# Original [JavaScript Stopwatch](https://codepen.io/cathydutton/pen/GBcvo)
